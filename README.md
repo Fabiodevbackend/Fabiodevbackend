@@ -1,6 +1,6 @@
 ## BEM VINDO AO MEU GITHUB
 
-![Snake animation](https://github.com/Fabiodevbackend/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fabiodevbackend/Fabiodevbackend/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   
